@@ -1,8 +1,23 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+# Game Noughts-and-Crosses
 
-## Available Scripts
+This is my first project (project of game) created in React JS Web Framework. This simple game was maded with official tutorial which you can find on a website. 
 
-In the project directory, you can run:
+## Getting Started
+
+If you want to run this app on your computer you have to do few simple things.
+Use several commands to run this project:
+1.
+
+### `git clone`
+
+to download this repo on your computer.
+
+2. Then lokalized file called "requirements.txt and install all needed apps and libraries.
+
+### `pip install requirements.txt`
+
+3. Finally enter 'npm start' to run project
 
 ### `npm start`
 
